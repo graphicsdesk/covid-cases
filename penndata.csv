@@ -1,0 +1,15 @@
+"","date","county","state","fips","cases","deaths"
+"2217","03/14","Philadelphia","Pennsylvania",42101,4,0
+"2639","03/15","Philadelphia","Pennsylvania",42101,8,0
+"3104","03/16","Philadelphia","Pennsylvania",42101,8,0
+"3634","03/17","Philadelphia","Pennsylvania",42101,10,0
+"4252","03/18","Philadelphia","Pennsylvania",42101,17,0
+"4993","03/19","Philadelphia","Pennsylvania",42101,33,0
+"5865","03/20","Philadelphia","Pennsylvania",42101,42,0
+"6869","03/21","Philadelphia","Pennsylvania",42101,69,0
+"7988","03/22","Philadelphia","Pennsylvania",42101,91,0
+"9200","03/23","Philadelphia","Pennsylvania",42101,128,0
+"10528","03/24","Philadelphia","Pennsylvania",42101,177,0
+"11998","03/25","Philadelphia","Pennsylvania",42101,257,1
+"13630","03/26","Philadelphia","Pennsylvania",42101,402,1
+"15386","03/27","Philadelphia","Pennsylvania",42101,530,2
